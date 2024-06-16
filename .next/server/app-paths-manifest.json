@@ -1,0 +1,6 @@
+{
+  "/(afterLogin)/[username]/page": "app/(afterLogin)/[username]/page.js",
+  "/(beforeLogin)/i/flow/login/page": "app/(beforeLogin)/i/flow/login/page.js",
+  "/(afterLogin)/search/page": "app/(afterLogin)/search/page.js",
+  "/(beforeLogin)/page": "app/(beforeLogin)/page.js"
+}

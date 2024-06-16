@@ -1,1 +1,1 @@
-# s-com
+pnpm dev
